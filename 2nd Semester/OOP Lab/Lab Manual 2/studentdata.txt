@@ -1,0 +1,4 @@
+Samyan Qayyum,2009-CS-1,BS
+CS142,Programming,3,1,86
+CS162, Object Oriented,3,2,90
+CS162L, Object Oriented Lab,1,2,90

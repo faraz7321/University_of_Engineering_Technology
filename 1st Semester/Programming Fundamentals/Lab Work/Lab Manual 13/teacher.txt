@@ -1,0 +1,2 @@
+Samyan;Qayyum,PhD,5,01234567891,samyan@uet.edu.pk 
+Faraz;Ahmad,bsc,3,03361117321,faraz721@gmail.com

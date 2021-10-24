@@ -1,0 +1,31 @@
+body{
+    font-family: Arial, Helvetica, sans-serif;
+    background-image: url(../images/wallhaven-9m5owx.jpg);
+    color: blanchedalmond;
+    background-size: cover;
+    background-position: center;
+}
+.content-table{
+        background-color:rgb(58, 62, 74,0.6) ;
+        width: 800px;
+        margin: auto;
+
+}
+h2{
+    width: 800px;
+    background-color: rgb(58, 62, 74);
+    margin: auto;
+    color: #ffffff;
+    padding: 10px 0px 10px 0px;
+    text-align: center;
+    border-radius: 15px 15px 0px 0px;
+}
+
+.table2{
+    background-color:rgb(58, 62, 74) ;
+    width: 800px;
+    margin: auto;
+}
+
+
+

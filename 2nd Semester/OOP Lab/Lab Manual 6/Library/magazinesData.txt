@@ -1,0 +1,3 @@
+asa,ISBN-2133,January,wadad,Magazine
+ghjfgjh,ISBN-3242,April,dgdh,Magazine
+taha,ISBN-1234,April,qwdqhwd,Magazine

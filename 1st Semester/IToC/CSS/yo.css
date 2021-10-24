@@ -1,0 +1,17 @@
+#p1{
+    background-image: url('images/tree.jpg');
+    background-repeat: no-repeat;
+    background-position: right top;
+    color: white;
+    width: 500px;
+}
+#p2{
+    background-image: url('images/background.jpg');
+    color: white;
+    width: 500px;
+}
+#p3{
+    background-image: url('images/twitter.jpg');
+    color: white;
+    width: 500px;
+}

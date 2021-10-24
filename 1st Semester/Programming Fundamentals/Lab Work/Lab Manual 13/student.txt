@@ -1,0 +1,2 @@
+Ali;Umar,2020-CE-121,Computer Engieering
+Muhammad;Arham,2020-CS-1111,Computer Science

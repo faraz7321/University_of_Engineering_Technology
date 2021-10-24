@@ -1,0 +1,16 @@
+D:\Faraz Ahmad\Computer Science (UET)\2nd Semester\OOP Lab\Lab Manual 11\Examples\Examples\bin\Debug\net5.0\Lab10.exe
+D:\Faraz Ahmad\Computer Science (UET)\2nd Semester\OOP Lab\Lab Manual 11\Examples\Examples\bin\Debug\net5.0\Lab10.deps.json
+D:\Faraz Ahmad\Computer Science (UET)\2nd Semester\OOP Lab\Lab Manual 11\Examples\Examples\bin\Debug\net5.0\Lab10.runtimeconfig.json
+D:\Faraz Ahmad\Computer Science (UET)\2nd Semester\OOP Lab\Lab Manual 11\Examples\Examples\bin\Debug\net5.0\Lab10.runtimeconfig.dev.json
+D:\Faraz Ahmad\Computer Science (UET)\2nd Semester\OOP Lab\Lab Manual 11\Examples\Examples\bin\Debug\net5.0\Lab10.dll
+D:\Faraz Ahmad\Computer Science (UET)\2nd Semester\OOP Lab\Lab Manual 11\Examples\Examples\bin\Debug\net5.0\ref\Lab10.dll
+D:\Faraz Ahmad\Computer Science (UET)\2nd Semester\OOP Lab\Lab Manual 11\Examples\Examples\bin\Debug\net5.0\Lab10.pdb
+D:\Faraz Ahmad\Computer Science (UET)\2nd Semester\OOP Lab\Lab Manual 11\Examples\Examples\obj\Debug\net5.0\Lab10.csprojAssemblyReference.cache
+D:\Faraz Ahmad\Computer Science (UET)\2nd Semester\OOP Lab\Lab Manual 11\Examples\Examples\obj\Debug\net5.0\Lab10.GeneratedMSBuildEditorConfig.editorconfig
+D:\Faraz Ahmad\Computer Science (UET)\2nd Semester\OOP Lab\Lab Manual 11\Examples\Examples\obj\Debug\net5.0\Lab10.AssemblyInfoInputs.cache
+D:\Faraz Ahmad\Computer Science (UET)\2nd Semester\OOP Lab\Lab Manual 11\Examples\Examples\obj\Debug\net5.0\Lab10.AssemblyInfo.cs
+D:\Faraz Ahmad\Computer Science (UET)\2nd Semester\OOP Lab\Lab Manual 11\Examples\Examples\obj\Debug\net5.0\Lab10.csproj.CoreCompileInputs.cache
+D:\Faraz Ahmad\Computer Science (UET)\2nd Semester\OOP Lab\Lab Manual 11\Examples\Examples\obj\Debug\net5.0\Lab10.dll
+D:\Faraz Ahmad\Computer Science (UET)\2nd Semester\OOP Lab\Lab Manual 11\Examples\Examples\obj\Debug\net5.0\ref\Lab10.dll
+D:\Faraz Ahmad\Computer Science (UET)\2nd Semester\OOP Lab\Lab Manual 11\Examples\Examples\obj\Debug\net5.0\Lab10.pdb
+D:\Faraz Ahmad\Computer Science (UET)\2nd Semester\OOP Lab\Lab Manual 11\Examples\Examples\obj\Debug\net5.0\Lab10.genruntimeconfig.cache
